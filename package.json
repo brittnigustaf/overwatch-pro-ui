@@ -1,0 +1,35 @@
+{
+  "name": "overwatch_pro",
+  "version": "0.0.0",
+  "private": true,
+  "license": "see LICENSE file",
+  "description": "A website using ReactJS and Node",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.4.3",
+    "express": "^4.4.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/brittnigustaf/overwatch_pro_ui.git"
+  },
+  "keywords": [
+    "overwatch",
+    "pro",
+    "react",
+    "node"
+  ],
+  "author": "brittnigustaf",
+  "bugs": {
+    "url": "https://github.com/brittnigustaf/overwatch_pro_ui/issues"
+  },
+  "homepage": "https://github.com/brittnigustaf/overwatch_pro_ui",
+  "engines" : {
+    "node" : "0.12.x"
+  }
+}
