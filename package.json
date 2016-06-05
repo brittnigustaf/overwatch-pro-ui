@@ -7,7 +7,8 @@
   "main": "server.js",
   "dependencies": {
     "body-parser": "^1.4.3",
-    "express": "^4.4.5"
+    "express": "^4.4.5",
+    "jasmine": "^2.4.1"
   },
   "devDependencies": {},
   "scripts": {
@@ -16,7 +17,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/brittnigustaf/overwatch_pro_ui.git"
+    "url": "git+https://github.com/brittnigustaf/overwatch_pro_ui.git"
   },
   "keywords": [
     "overwatch",
@@ -29,7 +30,7 @@
     "url": "https://github.com/brittnigustaf/overwatch_pro_ui/issues"
   },
   "homepage": "https://github.com/brittnigustaf/overwatch_pro_ui",
-  "engines" : {
-    "node" : "0.12.x"
+  "engines": {
+    "node": "0.12.x"
   }
 }
