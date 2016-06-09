@@ -1,0 +1,1017 @@
+[
+    {
+        "id": "bastion",
+        "name": "Bastion",
+        "health": 200,
+        "armor": 100,
+        "shield": 0,
+        "speed": 100,
+        "difficulty": 1,
+        "roll": "Defense",
+        "heroes": [
+            {
+                "names": "Reinhardt",
+                "counters": 0,
+                "counteredBy": 0,
+                "supports": 75,
+                "hinders": 0
+            },
+            {
+                "names": "Mercy",
+                "counters": 0,
+                "counteredBy": 0,
+                "supports": 75,
+                "hinders": 0
+            },
+            {
+                "names": "Zarya",
+                "counters": 0,
+                "counteredBy": 0,
+                "supports": 75,
+                "hinders": 0
+            },
+            {
+                "names": "Reinhardt",
+                "counters": 100,
+                "counteredBy": 0,
+                "supports": 0,
+                "hinders": 0
+            },
+            {
+                "names": "Winston",
+                "counters": 100,
+                "counteredBy": 0,
+                "supports": 0,
+                "hinders": 0
+            }
+        ]
+    },
+    {
+        "id": "dva",
+        "name": "D. Va",
+        "health": 100,
+        "armor": 400,
+        "shield": 0,
+        "speed": 100,
+        "difficulty": 2,
+        "roll": "Tank",
+        "heroes": [
+            {
+                "names": "Zarya",
+                "counters": 0,
+                "counteredBy": 0,
+                "supports": 75,
+                "hinders": 0
+            },
+            {
+                "names": "Mei",
+                "counters": 0,
+                "counteredBy": 0,
+                "supports": 75,
+                "hinders": 0
+            },
+            {
+                "names": "Hanzo",
+                "counters": 100,
+                "counteredBy": 0,
+                "supports": 0,
+                "hinders": 0
+            },
+            {
+                "names": "Widowmaker",
+                "counters": 100,
+                "counteredBy": 0,
+                "supports": 0,
+                "hinders": 0
+            },
+            {
+                "names": "Winston",
+                "counters": 100,
+                "counteredBy": 0,
+                "supports": 0,
+                "hinders": 0
+            }
+        ]
+    },
+    {
+        "id": "genji",
+        "name": "Genji",
+        "health": 200,
+        "armor": 0,
+        "shield": 0,
+        "speed": 100,
+        "difficulty": 3,
+        "roll": "Offense",
+        "heroes": [
+            {
+                "names": "Zarya",
+                "counters": 0,
+                "counteredBy": 0,
+                "supports": 75,
+                "hinders": 0
+            },
+            {
+                "names": "Zenyatta",
+                "counters": 0,
+                "counteredBy": 0,
+                "supports": 75,
+                "hinders": 0
+            },
+            {
+                "names": "Bastion",
+                "counters": 100,
+                "counteredBy": 0,
+                "supports": 0,
+                "hinders": 0
+            },
+            {
+                "names": "Hanzo",
+                "counters": 100,
+                "counteredBy": 0,
+                "supports": 0,
+                "hinders": 0
+            },
+            {
+                "names": "Widowmaker",
+                "counters": 100,
+                "counteredBy": 0,
+                "supports": 0,
+                "hinders": 0
+            }
+        ]
+    },
+    {
+        "id": "hanzo",
+        "name": "Hanzo",
+        "health": 200,
+        "armor": 0,
+        "shield": 0,
+        "speed": 100,
+        "difficulty": 3,
+        "roll": "Defense",
+        "heroes": [
+            {
+                "names": "Zarya",
+                "counters": 0,
+                "counteredBy": 0,
+                "supports": 75,
+                "hinders": 0
+            },
+            {
+                "names": "Mercy",
+                "counters": 0,
+                "counteredBy": 0,
+                "supports": 75,
+                "hinders": 0
+            },
+            {
+                "names": "Mei",
+                "counters": 0,
+                "counteredBy": 0,
+                "supports": 75,
+                "hinders": 0
+            },
+            {
+                "names": "Bastion",
+                "counters": 100,
+                "counteredBy": 0,
+                "supports": 0,
+                "hinders": 0
+            },
+            {
+                "names": "Roadhog",
+                "counters": 100,
+                "counteredBy": 0,
+                "supports": 0,
+                "hinders": 0
+            },
+            {
+                "names": "Torbjorn",
+                "counters": 100,
+                "counteredBy": 0,
+                "supports": 0,
+                "hinders": 0
+            }
+        ]
+    },
+    {
+        "id": "junkrat",
+        "name": "Junkrat",
+        "health": 200,
+        "armor": 0,
+        "shield": 0,
+        "speed": 100,
+        "difficulty": 2,
+        "roll": "Defense",
+        "heroes": [
+            {
+                "names": "Mercy",
+                "counters": 0,
+                "counteredBy": 0,
+                "supports": 75,
+                "hinders": 0
+            },
+            {
+                "names": "Winston",
+                "counters": 0,
+                "counteredBy": 0,
+                "supports": 75,
+                "hinders": 0
+            },
+            {
+                "names": "Mei",
+                "counters": 100,
+                "counteredBy": 0,
+                "supports": 0,
+                "hinders": 0
+            },
+            {
+                "names": "Tracer",
+                "counters": 100,
+                "counteredBy": 0,
+                "supports": 0,
+                "hinders": 0
+            }
+        ]
+    },
+    {
+        "id": "lucio",
+        "name": "Lúcio",
+        "health": 200,
+        "armor": 0,
+        "shield": 0,
+        "speed": 100,
+        "difficulty": 2,
+        "roll": "Support",
+        "heroes": [
+            {
+                "names": "Reinhardt",
+                "counters": 0,
+                "counteredBy": 0,
+                "supports": 75,
+                "hinders": 0
+            },
+            {
+                "names": "Reaper",
+                "counters": 0,
+                "counteredBy": 0,
+                "supports": 75,
+                "hinders": 0
+            },
+            {
+                "names": "Roadhog",
+                "counters": 0,
+                "counteredBy": 0,
+                "supports": 75,
+                "hinders": 0
+            },
+            {
+                "names": "Genji",
+                "counters": 50,
+                "counteredBy": 0,
+                "supports": 0,
+                "hinders": 0
+            },
+            {
+                "names": "Reaper",
+                "counters": 50,
+                "counteredBy": 0,
+                "supports": 0,
+                "hinders": 0
+            },
+            {
+                "names": "Roadhog",
+                "counters": 50,
+                "counteredBy": 0,
+                "supports": 0,
+                "hinders": 0
+            }
+        ]
+    },
+    {
+        "id": "mccree",
+        "name": "McCree",
+        "health": 200,
+        "armor": 0,
+        "shield": 0,
+        "speed": 100,
+        "difficulty": 2,
+        "roll": "Offense",
+        "heroes": [
+            {
+                "names": "Mei",
+                "counters": 0,
+                "counteredBy": 0,
+                "supports": 75,
+                "hinders": 0
+            },
+            {
+                "names": "Reinhardt",
+                "counters": 0,
+                "counteredBy": 0,
+                "supports": 75,
+                "hinders": 0
+            },
+            {
+                "names": "Tracer",
+                "counters": 100,
+                "counteredBy": 0,
+                "supports": 0,
+                "hinders": 0
+            },
+            {
+                "names": "Reinhardt",
+                "counters": 100,
+                "counteredBy": 0,
+                "supports": 0,
+                "hinders": 0
+            }
+        ]
+    },
+    {
+        "id": "mei",
+        "name": "Mei",
+        "health": 250,
+        "armor": 0,
+        "shield": 0,
+        "speed": 100,
+        "difficulty": 3,
+        "roll": "Defense",
+        "heroes": [
+            {
+                "names": "Hanzo",
+                "counters": 0,
+                "counteredBy": 0,
+                "supports": 75,
+                "hinders": 0
+            },
+            {
+                "names": "Lucio",
+                "counters": 0,
+                "counteredBy": 0,
+                "supports": 75,
+                "hinders": 0
+            },
+            {
+                "names": "Reaper",
+                "counters": 0,
+                "counteredBy": 0,
+                "supports": 75,
+                "hinders": 0
+            },
+            {
+                "names": "Genji",
+                "counters": 100,
+                "counteredBy": 0,
+                "supports": 0,
+                "hinders": 0
+            },
+            {
+                "names": "Lucio",
+                "counters": 100,
+                "counteredBy": 0,
+                "supports": 0,
+                "hinders": 0
+            },
+            {
+                "names": "DVa",
+                "counters": 100,
+                "counteredBy": 0,
+                "supports": 0,
+                "hinders": 0
+            }
+        ]
+    },
+    {
+        "id": "mercy",
+        "name": "Mercy",
+        "health": 200,
+        "armor": 0,
+        "shield": 0,
+        "speed": 100,
+        "difficulty": 1,
+        "roll": "Support",
+        "heroes": [
+            {
+                "names": "Hanzo",
+                "counters": 0,
+                "counteredBy": 0,
+                "supports": 75,
+                "hinders": 0
+            },
+            {
+                "names": "Junkrat",
+                "counters": 0,
+                "counteredBy": 0,
+                "supports": 75,
+                "hinders": 0
+            },
+            {
+                "names": "Pharah",
+                "counters": 0,
+                "counteredBy": 0,
+                "supports": 75,
+                "hinders": 0
+            },
+            {
+                "names": "Reinhardt",
+                "counters": 50,
+                "counteredBy": 0,
+                "supports": 0,
+                "hinders": 0
+            },
+            {
+                "names": "Winston",
+                "counters": 50,
+                "counteredBy": 0,
+                "supports": 0,
+                "hinders": 0
+            }
+        ]
+    },
+    {
+        "id": "pharah",
+        "name": "Pharah",
+        "health": 200,
+        "armor": 0,
+        "shield": 0,
+        "speed": 100,
+        "difficulty": 1,
+        "roll": "Offense",
+        "heroes": [
+            {
+                "names": "Mercy",
+                "counters": 0,
+                "counteredBy": 0,
+                "supports": 75,
+                "hinders": 0
+            },
+            {
+                "names": "Zarya",
+                "counters": 0,
+                "counteredBy": 0,
+                "supports": 75,
+                "hinders": 0
+            },
+            {
+                "names": "Junkrat",
+                "counters": 100,
+                "counteredBy": 0,
+                "supports": 0,
+                "hinders": 0
+            },
+            {
+                "names": "Reaper",
+                "counters": 100,
+                "counteredBy": 0,
+                "supports": 0,
+                "hinders": 0
+            },
+            {
+                "names": "Zarya",
+                "counters": 100,
+                "counteredBy": 0,
+                "supports": 0,
+                "hinders": 0
+            }
+        ]
+    },
+    {
+        "id": "reaper",
+        "name": "Reaper",
+        "health": 250,
+        "armor": 0,
+        "shield": 0,
+        "speed": 100,
+        "difficulty": 1,
+        "roll": "Offense",
+        "heroes": [
+            {
+                "names": "Lucio",
+                "counters": 0,
+                "counteredBy": 0,
+                "supports": 75,
+                "hinders": 0
+            },
+            {
+                "names": "Zarya",
+                "counters": 0,
+                "counteredBy": 0,
+                "supports": 75,
+                "hinders": 0
+            },
+            {
+                "names": "Mei",
+                "counters": 0,
+                "counteredBy": 0,
+                "supports": 75,
+                "hinders": 0
+            },
+            {
+                "names": "Mei",
+                "counters": 100,
+                "counteredBy": 0,
+                "supports": 0,
+                "hinders": 0
+            },
+            {
+                "names": "Roadhog",
+                "counters": 100,
+                "counteredBy": 0,
+                "supports": 0,
+                "hinders": 0
+            },
+            {
+                "names": "Winston",
+                "counters": 100,
+                "counteredBy": 0,
+                "supports": 0,
+                "hinders": 0
+            }
+        ]
+    },
+    {
+        "id": "reinhardt",
+        "name": "Reinhardt",
+        "health": 300,
+        "armor": 200,
+        "shield": 0,
+        "speed": 100,
+        "difficulty": 1,
+        "roll": "Tank",
+        "heroes": [
+            {
+                "names": "Bastion",
+                "counters": 0,
+                "counteredBy": 0,
+                "supports": 75,
+                "hinders": 0
+            },
+            {
+                "names": "McCree",
+                "counters": 0,
+                "counteredBy": 0,
+                "supports": 75,
+                "hinders": 0
+            },
+            {
+                "names": "Soldier76",
+                "counters": 0,
+                "counteredBy": 0,
+                "supports": 75,
+                "hinders": 0
+            },
+            {
+                "names": "Torbjorn",
+                "counters": 100,
+                "counteredBy": 0,
+                "supports": 0,
+                "hinders": 0
+            },
+            {
+                "names": "Zarya",
+                "counters": 100,
+                "counteredBy": 0,
+                "supports": 0,
+                "hinders": 0
+            },
+            {
+                "names": "Widowmaker",
+                "counters": 100,
+                "counteredBy": 0,
+                "supports": 0,
+                "hinders": 0
+            }
+        ]
+    },
+    {
+        "id": "roadhog",
+        "name": "Roadhog",
+        "health": 600,
+        "armor": 0,
+        "shield": 0,
+        "speed": 100,
+        "difficulty": 2,
+        "roll": "Tank",
+        "heroes": [
+            {
+                "names": "Zarya",
+                "counters": 0,
+                "counteredBy": 0,
+                "supports": 75,
+                "hinders": 0
+            },
+            {
+                "names": "Mercy",
+                "counters": 0,
+                "counteredBy": 0,
+                "supports": 75,
+                "hinders": 0
+            },
+            {
+                "names": "Bastion",
+                "counters": 100,
+                "counteredBy": 0,
+                "supports": 0,
+                "hinders": 0
+            },
+            {
+                "names": "Pharah",
+                "counters": 100,
+                "counteredBy": 0,
+                "supports": 0,
+                "hinders": 0
+            },
+            {
+                "names": "Tracer",
+                "counters": 100,
+                "counteredBy": 0,
+                "supports": 0,
+                "hinders": 0
+            }
+        ]
+    },
+    {
+        "id": "soldier76",
+        "name": "Soldier: 76",
+        "health": 200,
+        "armor": 0,
+        "shield": 0,
+        "speed": 100,
+        "difficulty": 1,
+        "roll": "Offense",
+        "heroes": [
+            {
+                "names": "Reinhardt",
+                "counters": 0,
+                "counteredBy": 0,
+                "supports": 75,
+                "hinders": 0
+            },
+            {
+                "names": "Winston",
+                "counters": 0,
+                "counteredBy": 0,
+                "supports": 75,
+                "hinders": 0
+            },
+            {
+                "names": "Pharah",
+                "counters": 100,
+                "counteredBy": 0,
+                "supports": 0,
+                "hinders": 0
+            },
+            {
+                "names": "Roadhog",
+                "counters": 100,
+                "counteredBy": 0,
+                "supports": 0,
+                "hinders": 0
+            },
+            {
+                "names": "Tracer",
+                "counters": 100,
+                "counteredBy": 0,
+                "supports": 0,
+                "hinders": 0
+            }
+        ]
+    },
+    {
+        "id": "symmetra",
+        "name": "Symmetra",
+        "health": 100,
+        "armor": 0,
+        "shield": 100,
+        "speed": 100,
+        "difficulty": 2,
+        "roll": "Support",
+        "heroes": [
+            {
+                "names": "Tracer",
+                "counters": 0,
+                "counteredBy": 0,
+                "supports": 75,
+                "hinders": 0
+            },
+            {
+                "names": "Zenyatta",
+                "counters": 0,
+                "counteredBy": 0,
+                "supports": 75,
+                "hinders": 0
+            },
+            {
+                "names": "DVa",
+                "counters": 100,
+                "counteredBy": 0,
+                "supports": 0,
+                "hinders": 0
+            },
+            {
+                "names": "Genji",
+                "counters": 100,
+                "counteredBy": 0,
+                "supports": 0,
+                "hinders": 0
+            },
+            {
+                "names": "Widowmaker",
+                "counters": 100,
+                "counteredBy": 0,
+                "supports": 0,
+                "hinders": 0
+            }
+        ]
+    },
+    {
+        "id": "torbjorn",
+        "name": "Torbjörn",
+        "health": 200,
+        "armor": 0,
+        "shield": 0,
+        "speed": 100,
+        "difficulty": 2,
+        "roll": "Defense",
+        "heroes": [
+            {
+                "names": "Tracer",
+                "counters": 0,
+                "counteredBy": 0,
+                "supports": 75,
+                "hinders": 0
+            },
+            {
+                "names": "Reinhardt",
+                "counters": 0,
+                "counteredBy": 0,
+                "supports": 75,
+                "hinders": 0
+            },
+            {
+                "names": "Lucio",
+                "counters": 100,
+                "counteredBy": 0,
+                "supports": 0,
+                "hinders": 0
+            },
+            {
+                "names": "Tracer",
+                "counters": 100,
+                "counteredBy": 0,
+                "supports": 0,
+                "hinders": 0
+            }
+        ]
+    },
+    {
+        "id": "tracer",
+        "name": "Tracer",
+        "health": 150,
+        "armor": 0,
+        "shield": 0,
+        "speed": 100,
+        "difficulty": 2,
+        "roll": "Offense",
+        "heroes": [
+            {
+                "names": "Symmetra",
+                "counters": 0,
+                "counteredBy": 0,
+                "supports": 75,
+                "hinders": 0
+            },
+            {
+                "names": "Torbjorn",
+                "counters": 0,
+                "counteredBy": 0,
+                "supports": 75,
+                "hinders": 0
+            },
+            {
+                "names": "Zarya",
+                "counters": 0,
+                "counteredBy": 0,
+                "supports": 75,
+                "hinders": 0
+            },
+            {
+                "names": "Reinhardt",
+                "counters": 100,
+                "counteredBy": 0,
+                "supports": 0,
+                "hinders": 0
+            },
+            {
+                "names": "Symmetra",
+                "counters": 100,
+                "counteredBy": 0,
+                "supports": 0,
+                "hinders": 0
+            },
+            {
+                "names": "Zenyatta",
+                "counters": 100,
+                "counteredBy": 0,
+                "supports": 0,
+                "hinders": 0
+            }
+        ]
+    },
+    {
+        "id": "widowmaker",
+        "name": "Widowmaker",
+        "health": 200,
+        "armor": 0,
+        "shield": 0,
+        "speed": 100,
+        "difficulty": 2,
+        "roll": "Defense",
+        "heroes": [
+            {
+                "names": "Winston",
+                "counters": 0,
+                "counteredBy": 0,
+                "supports": 75,
+                "hinders": 0
+            },
+            {
+                "names": "Zenyatta",
+                "counters": 0,
+                "counteredBy": 0,
+                "supports": 75,
+                "hinders": 0
+            },
+            {
+                "names": "Bastion",
+                "counters": 100,
+                "counteredBy": 0,
+                "supports": 0,
+                "hinders": 0
+            },
+            {
+                "names": "Torbjorn",
+                "counters": 100,
+                "counteredBy": 0,
+                "supports": 0,
+                "hinders": 0
+            },
+            {
+                "names": "Zenyatta",
+                "counters": 100,
+                "counteredBy": 0,
+                "supports": 0,
+                "hinders": 0
+            }
+        ]
+    },
+    {
+        "id": "winston",
+        "name": "Winston",
+        "health": 400,
+        "armor": 100,
+        "shield": 0,
+        "speed": 100,
+        "difficulty": 2,
+        "roll": "Tank",
+        "heroes": [
+            {
+                "names": "Zarya",
+                "counters": 0,
+                "counteredBy": 0,
+                "supports": 75,
+                "hinders": 0
+            },
+            {
+                "names": "Zenyatta",
+                "counters": 0,
+                "counteredBy": 0,
+                "supports": 75,
+                "hinders": 0
+            },
+            {
+                "names": "Widowmaker",
+                "counters": 100,
+                "counteredBy": 0,
+                "supports": 0,
+                "hinders": 0
+            },
+            {
+                "names": "Zenyatta",
+                "counters": 100,
+                "counteredBy": 0,
+                "supports": 0,
+                "hinders": 0
+            }
+        ]
+    },
+    {
+        "id": "zarya",
+        "name": "Zarya",
+        "health": 200,
+        "armor": 0,
+        "shield": 200,
+        "speed": 100,
+        "difficulty": 3,
+        "roll": "Tank",
+        "heroes": [
+            {
+                "names": "Genji",
+                "counters": 0,
+                "counteredBy": 0,
+                "supports": 75,
+                "hinders": 0
+            },
+            {
+                "names": "Reaper",
+                "counters": 0,
+                "counteredBy": 0,
+                "supports": 75,
+                "hinders": 0
+            },
+            {
+                "names": "Tracer",
+                "counters": 0,
+                "counteredBy": 0,
+                "supports": 75,
+                "hinders": 0
+            },
+            {
+                "names": "Mei",
+                "counters": 100,
+                "counteredBy": 0,
+                "supports": 0,
+                "hinders": 0
+            },
+            {
+                "names": "Genji",
+                "counters": 100,
+                "counteredBy": 0,
+                "supports": 0,
+                "hinders": 0
+            },
+            {
+                "names": "Tracer",
+                "counters": 100,
+                "counteredBy": 0,
+                "supports": 0,
+                "hinders": 0
+            }
+        ]
+    },
+    {
+        "id": "zenyatta",
+        "name": "Zenyatta",
+        "health": 50,
+        "armor": 0,
+        "shield": 100,
+        "speed": 100,
+        "difficulty": 3,
+        "roll": "Support",
+        "heroes": [
+            {
+                "names": "Genji",
+                "counters": 0,
+                "counteredBy": 0,
+                "supports": 75,
+                "hinders": 0
+            },
+            {
+                "names": "Reaper",
+                "counters": 0,
+                "counteredBy": 0,
+                "supports": 75,
+                "hinders": 0
+            },
+            {
+                "names": "Pharah",
+                "counters": 0,
+                "counteredBy": 0,
+                "supports": 75,
+                "hinders": 0
+            },
+            {
+                "names": "Zarya",
+                "counters": 100,
+                "counteredBy": 0,
+                "supports": 0,
+                "hinders": 0
+            },
+            {
+                "names": "Winston",
+                "counters": 100,
+                "counteredBy": 0,
+                "supports": 0,
+                "hinders": 0
+            },
+            {
+                "names": "Roadhog",
+                "counters": 100,
+                "counteredBy": 0,
+                "supports": 0,
+                "hinders": 0
+            }
+        ]
+    }
+]

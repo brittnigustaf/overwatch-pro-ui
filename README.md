@@ -25,3 +25,12 @@ PORT=3001 node server.js
 cd src/test
 jasmine
 ...
+
+## Running the JSON Builder
+
+...sh
+cd src/scripts/JSONBuilder
+node builder.js
+...
+
+JSON files are put into "src/scripts/JSONBuilder/out"

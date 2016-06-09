@@ -1,0 +1,152 @@
+[
+    {
+        "id": "hanamura",
+        "name": "Hanamura",
+        "mode": "Assault",
+        "variants": [],
+        "heroes": []
+    },
+    {
+        "id": "temple_of_anubis",
+        "name": "Temple of Anubis",
+        "mode": "Assault",
+        "variants": [],
+        "heroes": []
+    },
+    {
+        "id": "volskaya_industries",
+        "name": "Volskaya Industries",
+        "mode": "Assault",
+        "variants": [],
+        "heroes": []
+    },
+    {
+        "id": "dorado",
+        "name": "Dorado",
+        "mode": "Escort",
+        "variants": [],
+        "heroes": []
+    },
+    {
+        "id": "route66",
+        "name": "Route 66",
+        "mode": "Escort",
+        "variants": [],
+        "heroes": []
+    },
+    {
+        "id": "watchpoint_gibraltar",
+        "name": "Watchpoint: Gibraltar",
+        "mode": "Escort",
+        "variants": [],
+        "heroes": []
+    },
+    {
+        "id": "hollywood",
+        "name": "Hollywood",
+        "mode": "Hybrid",
+        "variants": [],
+        "heroes": []
+    },
+    {
+        "id": "kings_row",
+        "name": "King's Row",
+        "mode": "Hybrid",
+        "variants": [],
+        "heroes": []
+    },
+    {
+        "id": "numbani",
+        "name": "Numbani",
+        "mode": "Hybrid",
+        "variants": [],
+        "heroes": []
+    },
+    {
+        "id": "ilios",
+        "name": "Ilios",
+        "mode": "Control",
+        "variants": [
+            {
+                "id": "lighthouse",
+                "name": "Lighthouse",
+                "mode": "Control",
+                "variants": [],
+                "heroes": []
+            },
+            {
+                "id": "ruins",
+                "name": "Ruins",
+                "mode": "Control",
+                "variants": [],
+                "heroes": []
+            },
+            {
+                "id": "well",
+                "name": "Well",
+                "mode": "Control",
+                "variants": [],
+                "heroes": []
+            }
+        ],
+        "heroes": []
+    },
+    {
+        "id": "lijiang_tower",
+        "name": "Lijiang Tower",
+        "mode": "Control",
+        "variants": [
+            {
+                "id": "control_center",
+                "name": "Control Center",
+                "mode": "Control",
+                "variants": [],
+                "heroes": []
+            },
+            {
+                "id": "garden",
+                "name": "Garden",
+                "mode": "Control",
+                "variants": [],
+                "heroes": []
+            },
+            {
+                "id": "night_market",
+                "name": "Night Market",
+                "mode": "Control",
+                "variants": [],
+                "heroes": []
+            }
+        ],
+        "heroes": []
+    },
+    {
+        "id": "nepal",
+        "name": "Nepal",
+        "mode": "Control",
+        "variants": [
+            {
+                "id": "sanctum",
+                "name": "Sanctum",
+                "mode": "Control",
+                "variants": [],
+                "heroes": []
+            },
+            {
+                "id": "shrine",
+                "name": "Shrine",
+                "mode": "Control",
+                "variants": [],
+                "heroes": []
+            },
+            {
+                "id": "village",
+                "name": "Village",
+                "mode": "Control",
+                "variants": [],
+                "heroes": []
+            }
+        ],
+        "heroes": []
+    }
+]
