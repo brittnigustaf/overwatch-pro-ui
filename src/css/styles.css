@@ -1,15 +1,25 @@
 body {
-  background-image: url(../images/overwatch_background.jpg);
+  background-image: url(../images/backgrounds/overwatch_background.jpg);
   background-repeat: no-repeat;
   background-position: center top;
   background-attachment: fixed;
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-size: 15px;
-  line-height: 1.7;
+
   margin: 0;
   padding: 30px;
 }
 
 .hero-cards img {
-    padding: 20px;
+    margin: 20px;
+    border-radius: 20px;
+}
+
+.star {
+    display: inline-block;
+    width: 52px;
+    height: 52px;
+    background-image: url(../images/icons/star.png);
+}
+
+.empty.star {
+    background-position: 0 -52px;
 }

@@ -32,7 +32,4 @@ var HeroCards = React.createClass({
     }
 });
 
-ReactDOM.render(
-    <HeroCards />,
-    document.getElementById('content')
-);
+module.exports = HeroCards;
